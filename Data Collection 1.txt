@@ -1,0 +1,23 @@
+How do competing policy entrepreneurs within the US decision-making process cause variation in the outcomes of counterinsurgency campaigns, if at all? 
+
+
+Main arguments (theories/hypotheses): Competing policy networks within the US civil-military structure vie for influence 
+within the defense decision-making process during counterinsurgency campaigns. The organizations or individuals (positions) 
+that win influence will alternate during each decision-making iteration, thus creating a variation in counterinsurgency outcomes.
+
+Hypothesis: Informal networks constructed by policy entrepreneurs inside the US interagency will result in competing counterinsurgency strategies 
+within the formal decision-making structure. 
+
+For this iteration I would like to operationalize/measure 'competing policy networks' using twitter data. My idea is to map the informal networks associated
+with two main organizations: The Department of Defense and the Department of State. When a significant event occurs that forces a strategic decision, policy 
+entrepreneurs (or strategy entrepreneurs, as I'll call them), will highlight themselves by retweeting their the messages promoted by their department heads.
+So, I'm theorizing here that the real entrepreneurs are political appointees, one or two levels down from the principal decision-makers. These are the ones
+who will be the most active on Twitter once a decision on strategy is required.
+
+There are two Twitter data streams I'd be looking for here: Within government tweets, and media tweets. Both would be retweeted by the entrepreneurs, with 
+the later being a QT and the former a simple RT. Additionally, if DOD and State are in agreement, I would expect them to retweet eachother's messages on the
+strategy.
+
+In the end, I'm looking for entrepreneurs to be the prevelant retweeters, equating to 'influencers' in the standard parlance.
+
+ 
