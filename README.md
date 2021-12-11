@@ -2,3 +2,4 @@
 2. Once you receive an account, follow the directions with regards to the key, secret key, and bearer token; these will be needed in R for both the twitteR and academictwitteR packages.
 3. This package gathers Twitter data from 12 specific users within the national security arena. These users are all government officials and only the individuals with an official twitter account were used. The excel spreadsheet needed for replication is located in the Data directory in this repository.
 4. Coding for replication is included in the directory labeled 'Code'. 
+5. Annotations within the Annotated Networks Code file are modified from the following user: https://github.com/thesickish/Congress2016/commit/647d95dc49655f16859390e460c867e147d4855b
